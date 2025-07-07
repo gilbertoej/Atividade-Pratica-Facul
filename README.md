@@ -29,7 +29,6 @@ O objetivo é aplicar os conhecimentos de HTML5, CSS3 e JavaScript para criar um
 ## 🌐 Site online
 
 🔗 [Acesse o site publicado aqui](https://gilbertoej.github.io/Atividade-Pratica-Facul/index.html)  
-*(Substituir com o link real após publicação)*
 
 ---
 
